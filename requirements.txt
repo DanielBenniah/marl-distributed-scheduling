@@ -1,0 +1,10 @@
+# Python Requirements for MARL Distributed Task Scheduling
+# Install with: pip install -r requirements.txt
+
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+
+# Optional for enhanced visualization
+seaborn>=0.12.0
+pandas>=2.0.0
